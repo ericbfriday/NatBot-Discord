@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/ericbfriday/NatBot-Discord/issues"
   },
-  "homepage": "https://github.com/ericbfriday/NatBot-Discord#readme"
+  "homepage": "https://github.com/ericbfriday/NatBot-Discord#readme",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "winston": "^2.4.0"
+  }
 }
